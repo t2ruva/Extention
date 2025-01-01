@@ -106,3 +106,10 @@ cd $HOME && cd chromium
 ```bash
 docker compose up -d
 ```
+
+Sunucumuza Erişelim ; 
+
+```bash
+http://Sunucu-ip:3010/
+https://Sunucu-ip:3011/
+```
