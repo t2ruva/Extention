@@ -97,6 +97,11 @@ services:
     restart: unless-stopped
 ```
 
+- Örnek ; 
+
+![resim](https://github.com/user-attachments/assets/1f488a20-8c0b-4d54-9b3c-f011cf94c343)
+
+
 ## CTRL X CTRL Y Enter yapıp kaydedin.
 
 ## Sunucuyu Çalıştıralım ; 
