@@ -98,3 +98,11 @@ services:
 ```
 
 ## CTRL X CTRL Y Enter yapıp kaydedin.
+
+## Sunucuyu Çalıştıralım ; 
+```bash
+cd $HOME && cd chromium
+```
+```bash
+docker compose up -d
+```
