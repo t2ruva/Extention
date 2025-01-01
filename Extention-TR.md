@@ -113,3 +113,12 @@ Sunucumuza Erişelim ;
 http://Sunucu-ip:3010/
 https://Sunucu-ip:3011/
 ```
+
+- Ayarladığınız Kullanıcı adı - Şifreyi girin.
+
+![resim](https://github.com/user-attachments/assets/88e6b139-b364-4c42-bd5f-653547b29bc5)
+
+- Sonrasında artık Sanki Windows servera bağlanmış gibi chromium üzerinden eklentileri indirip giriş yapabilirsiniz.
+
+![resim](https://github.com/user-attachments/assets/84930d45-62e6-484c-8465-880c35a9228b)
+
