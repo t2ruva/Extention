@@ -119,8 +119,8 @@ docker compose up -d
 - Access Our Server ; 
 
 ```bash
-http://Sunucu-ip:3010/
-https://Sunucu-ip:3011/
+http://server-ip:3010/
+https://server-ip:3011/
 ```
 
 - Enter the Username - Password you have set.
