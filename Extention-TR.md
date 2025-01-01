@@ -96,3 +96,5 @@ services:
     shm_size: "1gb"
     restart: unless-stopped
 ```
+
+## CTRL X CTRL Y Enter yapıp kaydedin.
