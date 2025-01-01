@@ -103,7 +103,7 @@ services:
 
 - Example ; 
 
-![resim](https://github.com/user-attachments/assets/1f488a20-8c0b-4d54-9b3c-f011cf94c343)
+![resim](https://github.com/user-attachments/assets/d52d9302-dbb8-47a6-93ab-74b5a82cab16)
 
 
 ## CTRL X CTRL Y Enter Saved.
