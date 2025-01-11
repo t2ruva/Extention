@@ -1,14 +1,10 @@
 # Pengaturan Ekstensi VPS 
 
 ## Persyaratan : 
-
-Minimum : 
-
-- 1 CPU+ / 2 GB RAM /  4 MBit/sec 
  
 Direkomendasikan : 
 
-- 2+ CPU  / 4+ GB RAM / 8+ MBit/sec
+- 2+ CPU  / 6+ GB RAM / 8+ MBit/sec
 
 #### Jalankan perintah berikut untuk memperbarui dan meningkatkan paket sistem:
 
