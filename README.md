@@ -7,13 +7,10 @@
 
 ## Requirements : 
 
-Minimum : 
-
-- 1 CPU+ / 2 GB RAM /  4 MBit/sec 
 
 Recommended : 
 
-- 2+ CPU  / 4+ GB RAM / 8+ MBit/sec
+- 2+ CPU  / 6+ GB RAM / 8+ MBit/sec
 
 #### Run the following command to update and upgrade system packages:
 
@@ -98,7 +95,7 @@ services:
     ports:
       - 3010:3000   #Change 3010 to your favorite port if needed
       - 3011:3001   #Change 3011 to your favorite port if needed
-    shm_size: "1gb"
+    shm_size: "4gb"
     restart: unless-stopped
 ```
 
