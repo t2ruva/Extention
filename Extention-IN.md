@@ -89,7 +89,7 @@ services:
     ports:
       - 3010:3000   #Change 3010 to your favorite port if needed
       - 3011:3001   #Change 3011 to your favorite port if needed
-    shm_size: "1gb"
+    shm_size: "4gb"
     restart: unless-stopped
 ```
 
