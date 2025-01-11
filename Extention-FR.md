@@ -2,13 +2,8 @@
 
 ## Exigences : 
 
-Minimum : 
 
-- 1 CPU+ / 2 GB RAM /  4 MBit/sec 
-
-Recommandé : 
-
-- 2+ CPU  / 4+ GB RAM / 8+ MBit/sec
+- 2+ CPU  / 6+ GB RAM / 8+ MBit/sec
 
 #### Exécutez la commande suivante pour mettre à jour et mettre à niveau les paquets du système :
 
