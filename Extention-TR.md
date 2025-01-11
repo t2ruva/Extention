@@ -2,13 +2,8 @@
 
 ## Gereksinimler : 
 
-Minimum : 
 
-- 1 CPU+ / 2 GB RAM /  4 MBit/sec İndirme Hızı
-
-Tavsiye Edilen : 
-
-- 2+ CPU ( Hızlı ) / 4+ GB RAM / 8+ MBit/sec İndirme Hızı 
+- 2+ CPU ( Hızlı ) / 6+ GB RAM / 8+ MBit/sec İndirme Hızı 
 
 #### Sistem paketlerini güncellemek ve yükseltmek için aşağıdaki komutu çalıştırın:
 
