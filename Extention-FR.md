@@ -123,4 +123,6 @@ https://server-ip:3011/
 
 ![resim](https://github.com/user-attachments/assets/84930d45-62e6-484c-8465-880c35a9228b)
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
