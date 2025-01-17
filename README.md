@@ -125,6 +125,9 @@ https://server-ip:3011/
 
 ![resim](https://github.com/user-attachments/assets/88e6b139-b364-4c42-bd5f-653547b29bc5)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FurkanL0&style=flat-square&color=brightgreen&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
+</p>
 - After that, you can download plugins and log in via chromium as if you are connected to the Windows server.
 
 ![resim](https://github.com/user-attachments/assets/84930d45-62e6-484c-8465-880c35a9228b)
