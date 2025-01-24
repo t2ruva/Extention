@@ -123,6 +123,12 @@ https://server-ip:3011/
 
 - Enter the Username - Password you have set.
 
+## Projects : 
+
+- LayerEdge : https://x.com/FurkanL0eth/status/1882341359199072508 - Link : https://dashboard.layeredge.io
+🥷Code : u6UQwxO1
+
+
 ![resim](https://github.com/user-attachments/assets/88e6b139-b364-4c42-bd5f-653547b29bc5)
 
 <p align="center">
