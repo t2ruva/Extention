@@ -89,7 +89,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/London
-      - CHROME_CLI=https://github.com/FurkanL0 #optional
+      - CHROME_CLI=https://github.com/t2ruva #optional
     volumes:
       - /root/chromium/config:/config
     ports:
